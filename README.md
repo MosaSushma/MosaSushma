@@ -2,8 +2,15 @@
 <h3 align="center">Final Year B.Tech CSE Student | Full-Stack Developer & AI Enthusiast</h3>
 
 <p align="center">
-  <a href="https://deep-learning-sentiment-team.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_Live_Project_Deep_Learning_Sentiment_Analysis-Click_Here_To_Try_It-success?style=for-the-badge" alt="Live Project" />
+  <a href="mailto:sushma.mosa2005@gmail.com">
+    <img src="https://img.shields.io/badge/💼_Open_to_Roles-Web_Developer_|_Data_Analyst_|_Software_Developer-brightgreen?style=for-the-badge" alt="Open to Roles" />
+  </a>
+  <br/><br/>
+  <a href="https://github.com/MosaSushma">
+    <img src="https://img.shields.io/badge/🔭_Currently_Building-AI_&_Full_Stack_Projects-blueviolet?style=for-the-badge" alt="Currently Building" />
+  </a>
+  <a href="https://github.com/MosaSushma">
+    <img src="https://img.shields.io/badge/📊 _Currently_Learning-Power_BI_&_Data_Analytics-success?style=for-the-badge" alt="Currently Learning" />
   </a>
 </p>
 
@@ -13,7 +20,7 @@
 I am a Computer Science Engineering student with a solid foundation in software development, Data Structures & Algorithms, and web technologies. I have hands-on experience building web applications, AI-powered systems, and database-driven projects. I am a quick learner and a consistent problem solver who enjoys picking up new tools and applying them to real projects.
 
 - 🎓 Final Year B.Tech CSE at **Parul University** (CGPA: 7.03)
-- 🌱 Currently learning **Data Analytics with Power BI**
+- 📊  Currently learning **Data Analytics with Power BI**
 - 💼 Front-End Development Intern at **Cognifyz Technologies**
 - 🔭 I’m currently building **Deep Learning & Full-Stack Web Apps**
 - 📫 How to reach me: **sushma.mosa2005@gmail.com**
@@ -22,7 +29,7 @@ I am a Computer Science Engineering student with a solid foundation in software 
 
 ### 🚀 Featured Projects
 
-#### 1. [Deep Learning Based Sentiment Classification](https://deep-learning-sentiment-team.netlify.app/)
+#### 1. Deep Learning Based Sentiment Classification
 Built an NLP-based sentiment classifier for social media text using CNN, LSTM, and BERT models. Achieved **89.5% accuracy** with fine-tuned BERT on the Sentiment140 dataset (1.6M tweets). Developed a Flask web app with a React frontend for real-time sentiment and image prediction.
 **Tech Stack:** Python, Flask, React.js, NLP, Deep Learning, BERT, Tailwind CSS
 🔗 **[Live Demo](https://deep-learning-sentiment-team.netlify.app/)** | **[Source Code](https://github.com/MosaSushma/Deep-learning-based-sentiment-classification-for-social-media-content)**
