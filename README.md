@@ -35,9 +35,7 @@ Developed an AI-powered skincare and beauty app for skin type and acne detection
 #### 3. Placement Pilot - Full Stack Platform
 Built a full-stack placement platform with 45+ companies, 19 roadmaps, and an application tracker. Integrated Firebase Auth (email/Google + guest mode) and Firestore for real-time data. Designed a responsive Tailwind UI with progress tracking, modals, and topic completion.
 **Tech Stack:** Firebase Auth, Firestore, Tailwind CSS, Netlify
-🔗 **[Live Demo](https://placementpilot.netlify.app/)** | **[Source Code](YOUR-PLACEMENT-PILOT-REPO-LINK)**
-
-*(Note: If you have the GitHub repository for Placement Pilot, replace `YOUR-PLACEMENT-PILOT-REPO-LINK` with the actual link. Otherwise, you can delete the `| [Source Code](YOUR-PLACEMENT-PILOT-REPO-LINK)` part).*
+🔗 **[Live Demo](https://placementpilot.netlify.app/)** | **[Source Code](https://github.com/MosaSushma/Placement-Pilot)**
 
 ---
 
